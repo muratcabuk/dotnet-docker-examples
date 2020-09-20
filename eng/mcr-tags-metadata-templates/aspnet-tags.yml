@@ -1,0 +1,25 @@
+$(McrTagsYmlRepo:aspnet)
+$(McrTagsYmlTagGroup:5.0-buster-slim)
+    customSubTableTitle: .NET 5.0 Preview Tags
+$(McrTagsYmlTagGroup:5.0-alpine3.12)
+    customSubTableTitle: .NET 5.0 Preview Tags
+$(McrTagsYmlTagGroup:5.0-focal)
+    customSubTableTitle: .NET 5.0 Preview Tags
+$(McrTagsYmlTagGroup:5.0-buster-slim-arm64v8)
+    customSubTableTitle: .NET 5.0 Preview Tags
+$(McrTagsYmlTagGroup:5.0-alpine3.12-arm64v8)
+    customSubTableTitle: .NET 5.0 Preview Tags
+$(McrTagsYmlTagGroup:5.0-focal-arm64v8)
+    customSubTableTitle: .NET 5.0 Preview Tags
+$(McrTagsYmlTagGroup:5.0-buster-slim-arm32v7)
+    customSubTableTitle: .NET 5.0 Preview Tags
+$(McrTagsYmlTagGroup:5.0-focal-arm32v7)
+    customSubTableTitle: .NET 5.0 Preview Tags
+$(McrTagsYmlTagGroup:5.0-nanoserver-2004)
+    customSubTableTitle: .NET 5.0 Preview Tags
+$(McrTagsYmlTagGroup:5.0-nanoserver-1909)
+    customSubTableTitle: .NET 5.0 Preview Tags
+$(McrTagsYmlTagGroup:5.0-nanoserver-1903)
+    customSubTableTitle: .NET 5.0 Preview Tags
+$(McrTagsYmlTagGroup:5.0-nanoserver-1809)
+    customSubTableTitle: .NET 5.0 Preview Tags

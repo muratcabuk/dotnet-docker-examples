@@ -1,0 +1,17 @@
+trigger: none
+pr:
+  branches:
+    include:
+    - nightly
+  paths:
+    exclude:
+    - .github/*
+    - documentation/*
+    - README*
+    - samples/*
+
+variables:
+- template: variables/common.yml
+
+jobs:
+- template: ../common/templates/jobs/validate-image-sizes.yml
