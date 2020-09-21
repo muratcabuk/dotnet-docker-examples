@@ -1,6 +1,5 @@
 # Featured Repos
 
-test pull request 2
 
 ## .NET Core 2.1/3.1
 
