@@ -1,7 +1,6 @@
 # Featured Repos
 
 
-
 ## .NET Core 2.1/3.1
 
 * [dotnet/core/sdk](https://hub.docker.com/_/microsoft-dotnet-core-sdk/): .NET Core SDK
