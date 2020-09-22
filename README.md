@@ -1,6 +1,10 @@
 # Featured Repos
 
+<<<<<<< HEAD
 test pull request 2
+=======
+test pull request ddd
+>>>>>>> 3a828b2... Update README.md
 
 ## .NET Core 2.1/3.1
 
