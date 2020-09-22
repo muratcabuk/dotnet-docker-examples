@@ -2,6 +2,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 test pull request 2
 =======
 test pull request ddd
@@ -9,6 +10,9 @@ test pull request ddd
 =======
 test pull request ddd ffgg
 >>>>>>> f0df40e... Update README.md
+=======
+test asdfasdfasd 
+>>>>>>> 4a3b3ee... Update README.md
 
 ## .NET Core 2.1/3.1
 
