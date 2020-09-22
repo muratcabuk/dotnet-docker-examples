@@ -1,5 +1,7 @@
 # Featured Tags
 
+test
+
 * `dotnetapp` [(*Dockerfile*)](https://github.com/dotnet/dotnet-docker/blob/master/samples/dotnetapp/Dockerfile)
   * `docker pull mcr.microsoft.com/dotnet/core/samples:dotnetapp`
 * `aspnetapp` [(*Dockerfile*)](https://github.com/dotnet/dotnet-docker/blob/master/samples/aspnetapp/Dockerfile)
